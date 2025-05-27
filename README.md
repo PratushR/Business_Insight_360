@@ -82,22 +82,22 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 ## Data Model
 
+![Pasted image 20250527075400](https://github.com/user-attachments/assets/24ebca79-3786-40aa-87d3-ffd3c1289bca)
 
-![[Pasted image 20250527075400.png]]obsidian://open?vault=The%20One%20Throne&file=Pasted%20image%2020250527075400.png
 ## Dashboard Overview
 
 ### Finance View
 
-![[Pasted image 20250527075745.png]]
+![Pasted image 20250527075745](https://github.com/user-attachments/assets/a08caecd-ae9c-467b-93a5-f5498f4dd152)
 
 ### Sales View
 
-![[Pasted image 20250527075833.png]]
+![Pasted image 20250527075833](https://github.com/user-attachments/assets/d970ed09-bf45-4f82-9498-bd791fbdcfa5)
 
 ### Marketing View
 
-![[Pasted image 20250527075946.png]]
+![Pasted image 20250527075946](https://github.com/user-attachments/assets/7a5f5754-4d38-4145-b011-252e29a33dd9)
 
 ### Supply chain View
 
-![[Pasted image 20250527080011.png]]
+![Pasted image 20250527080011](https://github.com/user-attachments/assets/de41a13f-e331-4499-b1df-9483622827d3)
