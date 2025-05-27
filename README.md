@@ -83,7 +83,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 ## Data Model
 
 
-![[Pasted image 20250527075400.png]]
+![[Pasted image 20250527075400.png]]obsidian://open?vault=The%20One%20Throne&file=Pasted%20image%2020250527075400.png
 ## Dashboard Overview
 
 ### Finance View
